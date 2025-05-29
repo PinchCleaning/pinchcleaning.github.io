@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7276ef7.css",
+    "main.js": "/static/js/main.07ebb858.js",
+    "static/media/bed.jpg": "/static/media/bed.51a390e574f63cf96109.jpg",
+    "static/media/servicesImg5.jpg": "/static/media/servicesImg5.f451a080a54b68351128.jpg",
+    "static/media/houseMed.jpg": "/static/media/houseMed.4435245a3de2beaf5d40.jpg",
+    "static/media/servicesImg4.jpg": "/static/media/servicesImg4.1940b1ed913a5db30f4c.jpg",
+    "static/media/houseSmall.jpg": "/static/media/houseSmall.5eca4a768d32ee5673c0.jpg",
+    "static/media/leaseHouse1.jpg": "/static/media/leaseHouse1.890d16dffee53f92e083.jpg",
+    "static/media/leaseHouse2.jpg": "/static/media/leaseHouse2.fefbc19b08547e43288a.jpg",
+    "static/media/servicesImg6.jpg": "/static/media/servicesImg6.bdb8e6fd24165186bdae.jpg",
+    "static/media/chairWood.jpg": "/static/media/chairWood.b54f219eaf2ae47b2445.jpg",
+    "static/media/servicesImg2.jpg": "/static/media/servicesImg2.476f7e8b87ced5c41ca4.jpg",
+    "static/media/servicesImg3.jpg": "/static/media/servicesImg3.5b3a34bd4074c9f89d00.jpg",
+    "static/media/officeSpace1.jpg": "/static/media/officeSpace1.4c88ed6186ea1f7e4004.jpg",
+    "static/media/retail1.jpg": "/static/media/retail1.4446158106bba97d9a1f.jpg",
+    "static/media/houseLarge.jpg": "/static/media/houseLarge.ac6dcaa41eedb9c91d55.jpg",
+    "static/media/table.jpg": "/static/media/table.af0c0a15d40c54e4aa00.jpg",
+    "static/media/UpholstCleanInfo.jpg": "/static/media/UpholstCleanInfo.63de55a165d47d9ee17e.jpg",
+    "static/media/chair1.jpg": "/static/media/chair1.7650b0726d1d559eb014.jpg",
+    "static/media/aboutImage.jpg": "/static/media/aboutImage.1faba93b0469c17c4e5c.jpg",
+    "static/media/servicesImg7.jpg": "/static/media/servicesImg7.a20e98ef89349fa585c4.jpg",
+    "static/media/kitchenGreen.jpg": "/static/media/kitchenGreen.2fa91db7a24710d40573.jpg",
+    "static/media/servicesImg1.jpg": "/static/media/servicesImg1.e4ae06864ed44ddf16de.jpg",
+    "static/media/industrial1.jpg": "/static/media/industrial1.d1c2f4e538e46174e356.jpg",
+    "static/media/commercialCleanInfo.jpg": "/static/media/commercialCleanInfo.b35d3fc38935f64c75d7.jpg",
+    "static/media/domesticCleanInfo.jpg": "/static/media/domesticCleanInfo.45c3bf48f95ddcb142ba.jpg",
+    "static/media/ProCleaners-1.png": "/static/media/ProCleaners-1.da4a067127c93f4e56ff.png",
+    "static/media/logo.png": "/static/media/logo.b082e2c6913cfa2a7d6f.png",
+    "static/media/ProCleaners-small.PNG": "/static/media/ProCleaners-small.aa7efbb41189d13e29a2.PNG",
+    "index.html": "/index.html",
+    "main.e7276ef7.css.map": "/static/css/main.e7276ef7.css.map",
+    "main.07ebb858.js.map": "/static/js/main.07ebb858.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7276ef7.css",
+    "static/js/main.07ebb858.js"
+  ]
+}
